@@ -21,9 +21,7 @@ So, I had to look for other ways to use the event recording, since as you probab
 
 ## The solution
 
-In the documentation, Microsoft provides the solution, and if, like me, you haven't noticed, I comment on it below:
-
-https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-events-discoverability#how-to-record-events
+In [the documentation][https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-events-discoverability#how-to-record-events], Microsoft provides the solution, and if, like me, you haven't noticed, I comment on it below:
 
 >### How to record events
 >
