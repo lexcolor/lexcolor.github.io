@@ -25,7 +25,7 @@ In this particular scenario, a POS command is required, which can show in the PO
 
 I have to expose a codeunit containing the endpoint where I'll recover the customer balance, like this:
 
-```
+```al
 codeunit 50905 "IncomingActions"
 {
     trigger OnRun()
