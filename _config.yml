@@ -19,7 +19,7 @@ timezone: America.Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: BC Journal                          # the main title
+title: Dev Journal                          # the main title
 
 tagline: A future-self notes collection, gathered along the way.   # it will display as the sub-title
 
